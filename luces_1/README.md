@@ -13,7 +13,7 @@ In this folder review the next objetives
 
 ## CIRCUIT
 
-<p align="center"><img src="luces_1.png" width="700"></p>
+<p align="center"><img src="luces_1/luces_1.png" width="700"></p>
 
 ## OUTPUT  
 
